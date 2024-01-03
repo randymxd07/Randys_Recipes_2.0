@@ -1,0 +1,53 @@
+.randylogo{
+    width: 100px;
+}
+
+.nav-wrapper{
+    height: 100px;
+    background-color: rgba(128, 128, 128, 0.603);
+}
+
+.fondo{
+    background: url(../images/FONDO.jpg);
+    background-size: cover;
+}
+
+.bigtext{
+    font-size: 26px;
+}
+
+.blanco{
+    color: white;
+    text-decoration: none;
+}
+
+.btn-large{
+    height: 65px;
+    font-size: 20px;
+}
+
+.btn-large :hover{
+    color: orange;
+}
+
+.naranja :hover{
+    color: orange;
+}
+
+.header{
+    background: rgba(128, 128, 128, 0.603);
+}
+
+.index {
+    background: url(../images/FONDO.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+
+.sobrenosotros{
+    background: url(../images/shrimp-dish-3434523.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
